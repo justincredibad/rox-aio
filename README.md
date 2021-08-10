@@ -9,7 +9,6 @@ Download Python
 
 https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
 
-Download Android SDK
 
 Run cmd
 
@@ -32,6 +31,11 @@ python -m pip install opencv-python
 ```bash
 python -m pip install pure-python-adb
 ```
+
+```bash
+python -m pip install mss
+```
+
 
 ## Usage
 Run IDLE (Python 3.9 64-bit) as admin
